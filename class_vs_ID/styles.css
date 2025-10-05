@@ -1,0 +1,10 @@
+.chicken {
+    font-size: 3.0em;
+    line-height: 1.5em;
+    font: Arial;
+    color: blueviolet;
+}
+#active {
+    background-color: red;
+    color: steelblue;
+}
